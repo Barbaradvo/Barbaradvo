@@ -5,6 +5,8 @@
 I'm a Junior Front end Developer and a Graphic Designer. 
 
 Working with JavaScript, React, Node.js
+
 I'm a Pokémon content creator on TikTok
+
 I love Anime, Videogames, Exploring, and Learning new things. 
  
